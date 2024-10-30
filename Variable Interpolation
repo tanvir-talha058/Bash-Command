@@ -1,0 +1,3 @@
+#!bin/bash
+name=" tanvir"
+echo " the value of the variable 'name' is:$name"
