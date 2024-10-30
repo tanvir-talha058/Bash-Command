@@ -1,0 +1,4 @@
+#!/bin/bash
+tanvir@Tanvir:~$ colors=("Red", "Blue" "Green" "Purple" "Yellow")
+tanvir@Tanvir:~$ echo "My favorite colors are: ${colors[@]}"
+My favorite colors are: Red, Blue Green Purple Yellow
