@@ -1,0 +1,7 @@
+#!/bin/bash
+tanvir@Tanvir:~$ echo "please enter your mobile no"
+please enter your mobile no
+tanvir@Tanvir:~$ read mobile
+01906190296
+tanvir@Tanvir:~$ echo "my mobile no is: $mobile"
+my mobile no is: 01906190296
