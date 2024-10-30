@@ -1,0 +1,4 @@
+tanvir@Tanvir:~$ #!/bin/bash
+tanvir@Tanvir:~$ datetime=$(date)
+tanvir@Tanvir:~$ echo "current date and time: $datetime"
+current date and time: Wed Oct 30 11:59:02 PM +06 2024
