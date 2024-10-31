@@ -1,0 +1,15 @@
+tanvir@Tanvir:~$ fruit="apple"
+tanvir@Tanvir:~$ case $fruit in
+> apple)
+> echo "it's an apple"
+> ;;
+> banana)
+> echo "it's a banana"
+> ;;
+> orrange)
+> echo " it's an orrange"
+> ;;
+> *)
+> echo "unknown"
+> ;;
+> esac
