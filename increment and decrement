@@ -1,0 +1,8 @@
+tanvir@Tanvir:~$ #!/bin/bash
+tanvir@Tanvir:~$ num=10
+tanvir@Tanvir:~$ ((num ++))
+tanvir@Tanvir:~$ echo "increment: $num"
+increment: 11
+tanvir@Tanvir:~$ ((num--))
+tanvir@Tanvir:~$ echo " decrement: $num"
+decrement: 10
