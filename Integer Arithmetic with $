@@ -1,0 +1,9 @@
+tanvir@Tanvir:~$ #!/bin/bash
+tanvir@Tanvir:~$ num1=10
+tanvir@Tanvir:~$ num2=20
+tanvir@Tanvir:~$ sum=$((num1 + num2 ))
+tanvir@Tanvir:~$ product=$((num1*num2))
+tanvir@Tanvir:~$ echo "sum: $sum"
+sum: 30
+tanvir@Tanvir:~$ echo "product: $product"
+product: 200
