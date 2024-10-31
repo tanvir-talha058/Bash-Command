@@ -1,0 +1,6 @@
+tanvir@Tanvir:~$ num=5
+tanvir@Tanvir:~$ if (( num>= 3 )); then
+> echo "num is greater than or equal to 3"
+> fi
+num is greater than or equal to 3
+tanvir@Tanvir:~$ 
