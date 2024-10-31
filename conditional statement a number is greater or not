@@ -1,0 +1,11 @@
+tanvir@Tanvir:~$ #!/bin/bash
+tanvir@Tanvir:~$ echo "input a number: "
+input a number: 
+tanvir@Tanvir:~$ read n
+59
+tanvir@Tanvir:~$ if [ "$n" -gt 100]; then
+> echo " the number is greater than 100"
+> else
+> echo " the number is not greater than 100"
+> fi
+the number is not greater than 100
