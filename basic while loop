@@ -1,0 +1,6 @@
+tanvir@Tanvir:~$ counter=1
+tanvir@Tanvir:~$ while (( counter <= 5 ))
+> do 
+> echo "counter: $counter"
+> ((counter++))
+> done
