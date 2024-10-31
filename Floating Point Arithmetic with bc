@@ -1,0 +1,10 @@
+tanvir@Tanvir:~$ #!/ bin / bash
+tanvir@Tanvir:~$ num1=10.5
+tanvir@Tanvir:~$ num2=3.2
+tanvir@Tanvir:~$ sum=$(echo "$num1 + $num2" | bc)
+tanvir@Tanvir:~$ echo "Sum: $sum"
+Sum: 13.7
+tanvir@Tanvir:~$ difference=$(echo "$num1 - $num2" | bc)
+tanvir@Tanvir:~$ echo "Difference: $difference"
+Difference: 7.3
+
