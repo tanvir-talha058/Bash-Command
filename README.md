@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Created by [Your Name](https://github.com/tanvir-talha058).
+Created by [Tanvir Ahmed](https://github.com/tanvir-talha058).
 
 ## Acknowledgments
 
